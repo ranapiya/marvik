@@ -1,4 +1,4 @@
-<h1 align="center">Modern UI/UX website</h1>
+<h1 align="center">Modern UI/UX Frontend website</h1>
 
 
 ![Marvik](https://github.com/user-attachments/assets/16b7f298-661c-48d1-aba7-92ed4ee758a2)
