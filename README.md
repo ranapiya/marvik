@@ -1,7 +1,7 @@
 <h1 align="center">Modern UI/UX website</h1>
-![Marvik](https://github.com/user-attachments/assets/9c74a4c4-d9fb-41da-91d6-724730f34d1b)
 
 
+![Marvik](https://github.com/user-attachments/assets/16b7f298-661c-48d1-aba7-92ed4ee758a2)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -11,6 +11,7 @@ Marvik - Modern UI/UX website, developed using React.js and Tailwind CSS, exempl
 
 - Vite
 - React.js
+
 - Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
@@ -806,32 +807,5 @@ export default Roadmap;
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-- [Assets](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
-- [Design](https://drive.google.com/file/d/15WJMOchujvaQ7Kg9e0nGeGR7G7JOeX1K/view?usp=sharing)
-- [Absolute Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
-- [Live Website](https://jsm-brainwave.com/)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
 
 #
